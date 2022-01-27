@@ -3,7 +3,7 @@
 This repo contains information and code of the weakly-supervised cloud detection method for remote sensing images presented in the work
 
 ><b>A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images</b><br>
-Jun Li, Zhaocong Wu,*, Qinghong Sheng,*, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>
+Jun Li, Zhaocong Wu,Qinghong Sheng, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>
 Submitted, 2022
 
 ## Abstract
@@ -24,13 +24,13 @@ The training dataset is on: https://github.com/Neooolee/WHUL8-CDb
 
 If you find this useful, consider citing our work:
 
-><b>A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images</b>
-Jun Lia, Zhaocong Wu,*, Qinghong Sheng,*, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier
+><b>A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images</b><br>
+Jun Li, Zhaocong Wu,Qinghong Sheng, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>
 Submitted, 2022
 
 ```
 @article {Li22gancdm,
-  author = {Jun Li, Zhaocong Wu,*, Qinghong Sheng,*, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier},
+  author = {Jun Li, Zhaocong Wu,Qinghong Sheng, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>},
   title = {A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images},
   volume = {},
   number = {},
