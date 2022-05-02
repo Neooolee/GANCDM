@@ -18,7 +18,7 @@ Code snippets and demos can be found here:
 
 # Data
 
-The training dataset is on: https://v.qq.com/x/cover/mzc00200lnhx3nj.html
+The training dataset is on: https://doi.org/10.5281/zenodo.6420027
 
 # How to cite our work
 
