@@ -26,21 +26,21 @@ If you find this useful, consider citing our work:
 
 ><b>A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images</b><br>
 Jun Li, Zhaocong Wu,Qinghong Sheng, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>
-Submitted, 2022
+Remote Sens. Environ. 280, 113197. https://doi.org/10.1016/j.rse.2022.113197
 
 ```
-@article {Li22gancdm,
+@article {A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images,
   author = {Jun Li, Zhaocong Wu,Qinghong Sheng, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>},
   title = {A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images},
-  volume = {},
+  volume = {280},
   number = {},
   elocation-id = {},
   year = {2022},
-  doi = {},
-  publisher = {},
+  doi = {10.1016/j.rse.2022.113197},
+  publisher = {Elsevier Inc.},
   URL = {},
   eprint = {},
-  journal = {Under review}
+  journal = {Remote Sensing of Environment}
 }
 ```
 
