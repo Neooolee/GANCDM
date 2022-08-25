@@ -71,9 +71,9 @@ def attention_generator(img_x,img_y):#GAN-CDM-4
 #         fake_y=generator_unet(image=img_x,reuse=False,name='generatorx2y')
 
 #         f_x=tf.ones_like(fake_y)
-#         fake_x_8=fake_y[:,:,:,:8]*xa[:,:,:,1:2]+f_x[:,:,:,:8]*xa[:,:,:,0:1]
-#         fake_x_2=fake_y[:,:,:,8:]*(tf.ones_like(xa[:,:,:,0:1])-xa[:,:,:,0:1])
-#         fake_x_=tf.concat([fake_x_8,fake_x_2],axis=-1)
+#         fake_x_6=fake_y[:,:,:,:6]*xa[:,:,:,1:2]+f_x[:,:,:,:6]*xa[:,:,:,0:1]
+#         fake_x_2=fake_y[:,:,:,6:]*(tf.ones_like(xa[:,:,:,0:1])-xa[:,:,:,0:1])
+#         fake_x_=tf.concat([fake_x_6,fake_x_2],axis=-1)
                     
 #         return fake_y,fake_x_,xa,ya,xall,yall
        
