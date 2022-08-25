@@ -2,9 +2,7 @@
 
 This repo contains information and code of the weakly-supervised cloud detection method for remote sensing images presented in the work
 
-><b>A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images</b><br>
-Jun Li, Zhaocong Wu,Qinghong Sheng, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>
-Submitted, 2022
+Li, J., Wu, Z., Sheng, Q., Wang, B., Hu, Z., Zheng, S., Camps-Vall, G., Molinier, M., 2022. A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images. Remote Sens. Environ. 280, 113197. https://doi.org/10.1016/j.rse.2022.113197
 
 ## Abstract
 
@@ -24,9 +22,7 @@ The training dataset is on: https://doi.org/10.5281/zenodo.6420027
 
 If you find this useful, consider citing our work:
 
-><b>A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images</b><br>
-Jun Li, Zhaocong Wu,Qinghong Sheng, Bo Wang, Zhongwen Hu, Shaobo Zheng, Gustau Camps-Valls, Matthieu Molinier<br>
-Remote Sens. Environ. 280, 113197. https://doi.org/10.1016/j.rse.2022.113197
+Li, J., Wu, Z., Sheng, Q., Wang, B., Hu, Z., Zheng, S., Camps-Vall, G., Molinier, M., 2022. A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images. Remote Sens. Environ. 280, 113197. https://doi.org/10.1016/j.rse.2022.113197
 
 ```
 @article {A hybrid generative adversarial network for weakly-supervised cloud detection in multispectral images,
